@@ -1,0 +1,21 @@
+Date: 18.04.2020 21:34:12
+GameType: First
+Iterations: 1000
+Coincidence Count: 1
+
+Wins: 0
+Wins (%): 0%
+Loses: 1
+Loses (%): 100%
+Jaskpots: 0
+
+Coincidences [1]: 0
+Coincidences [1] (%): не число%
+Coincidences [2]: 0
+Coincidences [2] (%): не число%
+Coincidences [3]: 0
+Coincidences [3] (%): не число%
+Coincidences [4]: 0
+Coincidences [4] (%): не число%
+Coincidences [5]: 0
+Coincidences [5] (%): не число%

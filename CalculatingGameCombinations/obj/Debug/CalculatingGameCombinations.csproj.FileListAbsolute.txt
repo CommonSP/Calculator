@@ -1,0 +1,50 @@
+C:\Project\calculating-game-combinations\CalculatingGameCombinations\bin\Debug\CalculatingGameCombinations.exe.config
+C:\Project\calculating-game-combinations\CalculatingGameCombinations\bin\Debug\CalculatingGameCombinations.exe
+C:\Project\calculating-game-combinations\CalculatingGameCombinations\bin\Debug\CalculatingGameCombinations.pdb
+C:\Project\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.Properties.Resources.resources
+C:\Project\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.csproj.GenerateResource.cache
+C:\Project\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.csproj.CoreCompileInputs.cache
+C:\Project\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.exe
+C:\Project\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.pdb
+C:\Project\calculating-game-combinations\CalculatingGameCombinations\bin\Debug\MersenneTwister.dll
+C:\Project\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.csproj.CopyComplete
+C:\Project\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.FirstGameType.resources
+C:\Project\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.MainForm.resources
+C:\Project\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.csprojAssemblyReference.cache
+C:\Project\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.SecondGameType.resources
+G:\calculating-game-combinations\CalculatingGameCombinations\bin\Debug\CalculatingGameCombinations.exe.config
+G:\calculating-game-combinations\CalculatingGameCombinations\bin\Debug\CalculatingGameCombinations.exe
+G:\calculating-game-combinations\CalculatingGameCombinations\bin\Debug\CalculatingGameCombinations.pdb
+G:\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.csprojAssemblyReference.cache
+G:\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.SecondGameType.resources
+G:\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.FirstGameType.resources
+G:\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.MainForm.resources
+G:\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.Properties.Resources.resources
+G:\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.csproj.GenerateResource.cache
+G:\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.csproj.CoreCompileInputs.cache
+G:\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.csproj.CopyComplete
+G:\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.exe
+G:\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.pdb
+D:\Новая папка\calculating-game-combinations\CalculatingGameCombinations\bin\Debug\CalculatingGameCombinations.exe.config
+D:\Новая папка\calculating-game-combinations\CalculatingGameCombinations\bin\Debug\CalculatingGameCombinations.exe
+D:\Новая папка\calculating-game-combinations\CalculatingGameCombinations\bin\Debug\CalculatingGameCombinations.pdb
+D:\Новая папка\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.csprojAssemblyReference.cache
+D:\Новая папка\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.SecondGameType.resources
+D:\Новая папка\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.FirstGameType.resources
+D:\Новая папка\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.MainForm.resources
+D:\Новая папка\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.Properties.Resources.resources
+D:\Новая папка\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.csproj.GenerateResource.cache
+D:\Новая папка\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.csproj.CopyComplete
+D:\Новая папка\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.exe
+D:\Новая папка\calculating-game-combinations\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.pdb
+C:\Users\evgen\source\repos\CalculatingGameCombinations\bin\Debug\CalculatingGameCombinations.exe.config
+C:\Users\evgen\source\repos\CalculatingGameCombinations\bin\Debug\CalculatingGameCombinations.exe
+C:\Users\evgen\source\repos\CalculatingGameCombinations\bin\Debug\CalculatingGameCombinations.pdb
+C:\Users\evgen\source\repos\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.SecondGameType.resources
+C:\Users\evgen\source\repos\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.FirstGameType.resources
+C:\Users\evgen\source\repos\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.MainForm.resources
+C:\Users\evgen\source\repos\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.Properties.Resources.resources
+C:\Users\evgen\source\repos\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.csproj.GenerateResource.cache
+C:\Users\evgen\source\repos\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.csproj.CopyComplete
+C:\Users\evgen\source\repos\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.exe
+C:\Users\evgen\source\repos\CalculatingGameCombinations\obj\Debug\CalculatingGameCombinations.pdb

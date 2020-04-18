@@ -1,0 +1,21 @@
+Date: 10.06.2018 15:51:42
+GameType: Second
+Iterations: 1000
+Coincidence Count: 1
+
+Wins: 328
+Wins (%): 32,8%
+Loses: 672
+Loses (%): 67,2%
+Jaskpots: 0
+
+Coincidences [1]: 328
+Coincidences [1] (%): 100%
+Coincidences [2]: 0
+Coincidences [2] (%): 0%
+Coincidences [3]: 0
+Coincidences [3] (%): 0%
+Coincidences [4]: 0
+Coincidences [4] (%): 0%
+Coincidences [5]: 0
+Coincidences [5] (%): 0%
